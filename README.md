@@ -14,4 +14,6 @@ Without Password Login:
 With Password Login:
 
 `wgethttps://github.com/ManuelBu96/openvpn-install/blob/master/openvpn-install-password.sh && mv openvpn-install-password.sh openvpn-install.sh && bash openvpn-install.sh`
+
+
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
